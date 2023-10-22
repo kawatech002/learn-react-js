@@ -1,7 +1,7 @@
 
 `# React Learning Guidelines
 
-Author: Lorena M
+Author: Lorenah M
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Before you begin, make sure you have the following installed on your computer:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Skylar-Lorena/learn-react-js.git` 
+   git clone https://github.com/Skylar-Lorena/learn-react-js` 
 
 2.  Change your working directory to the project folder:
     
@@ -65,23 +65,28 @@ Before you begin, make sure you have the following installed on your computer:
 -   Task 7: Implement the core features of your application. For example, add features for creating, updating, and deleting tasks.
 -   Task 8: Use React Router to create different views for your app (e.g., task list, task details).
 
-**Day 4: State Management and Data Handling**
+**Day 4: Implementing Core Features**
+-   Task 9: Use the fetch() function to fetch data from an API or database.
+-   Task 10: Use the data fetched in Task 9 to populate your application's state.
+-   Task 11: Display the data fetched in Task 9 in your application's UI.
 
--   Task 9: Implement state management using React's `useState` and `useEffect` hooks.
--   Task 10: Create and manage state for various components in your application.
--   Task 11: Set up data handling for your application, such as storing task data in state.
+**Day 5: State Management and Data Handling**
 
-**Day 5: User Interaction and Styling**
+-   Task 12: Implement state management using React's `useState` and `useEffect` hooks.
+-   Task 13: Create and manage state for various components in your application.
+-   Task 14: Set up data handling for your application, such as storing task data in state.
 
--   Task 12: Implement event handling for user interactions (e.g., clicking a task, editing task details).
--   Task 13: Style your application using CSS or a UI library like Material-UI.
--   Task 14: Ensure the application has a polished and visually appealing look.
+**Day 6: User Interaction and Styling**
 
-### Day 6: Testing, Debugging, and Deployment
+-   Task 15: Implement event handling for user interactions (e.g., clicking a task, editing task details).
+-   Task 16: Style your application using CSS or a UI library like Material-UI.
+-   Task 17: Ensure the application has a polished and visually appealing look.
 
--   Task 15: Perform testing and debugging to ensure the application is error-free.
--   Task 16: Polish the project, review the code, and make any necessary improvements.
--   Task 17: Deploy your React application to a hosting platform (e.g., Netlify, Vercel, or GitHub Pages).
+### Day 7: Testing, Debugging, and Deployment
+
+-   Task 18: Perform testing and debugging to ensure the application is error-free.
+-   Task 19: Polish the project, review the code, and make any necessary improvements.
+-   Task 20: Deploy your React application to a hosting platform (e.g., Netlify, Vercel, or GitHub Pages).
 
 
 ## Contributing
